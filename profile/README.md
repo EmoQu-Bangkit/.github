@@ -38,9 +38,9 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
 
 | Learning Path      | Repository Name                          | Repository  Link                                                         |
 |:-------------------|:-----------------------------------------|:-------------------------------------------------------------------------|
-| Machine Learning   | Machine Learning                            | **[Repo](https://github.com/EmoQu-Bangkit/MachineLearning)**          |
-| Cloud Computing    | API Smart Rinse                          | **[Repo](https://github.com/EmoQu-Bangkit/CloudComputing)**              |
-| Mobile Development | Smart Rinse (for User)                   | **[Repo](https://github.com/EmoQu-Bangkit/MobileDevelopment)**           |
+| Machine Learning   | Machine Learning                         | **[ML_Repo](https://github.com/EmoQu-Bangkit/MachineLearning)**          |
+| Cloud Computing    | Cloud Computing                          | **[CC_Repo](https://github.com/EmoQu-Bangkit/CloudComputing)**              |
+| Mobile Development | Mobile Development                       | **[MD_Repo](https://github.com/EmoQu-Bangkit/MobileDevelopment)**           |
 
 
 
