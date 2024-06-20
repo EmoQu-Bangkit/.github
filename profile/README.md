@@ -15,15 +15,15 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
 
 ###
 
-| ID              | Name                          | Learning Path       |
-|:----------------|:------------------------------|:--------------------|
-| `M338D4KY2681`  | Denny Wisnu Supatro Sukisno   | Machine Learning    |
-| `M006D4KY1976`  | Aditya Wahyu Rahmani          | Machine Learning    |
-| `M009D4KY2351`  | Muhammad Raihan Ramadhan      | Machine Learning    |
-| `C009D4KY0174`  | Hanif Nurfauzi                | Cloud Computing     |
-| `C237D4KY0508`  | Rafi Muhammad Hafidz          | Cloud Computing     |
-| `A298D4KX4518`  | Desak Putu Mahadewi Saraswati | Mobile Development  |
-| `A200D4KY3996`  | Galang Prioutomo              | Mobile Development  |
+  | ID              | Name                          | Learning Path       |
+  |:----------------|:------------------------------|:--------------------|
+  | `M338D4KY2681`  | Denny Wisnu Supatro Sukisno   | Machine Learning    |
+  | `M006D4KY1976`  | Aditya Wahyu Rahmani          | Machine Learning    |
+  | `M009D4KY2351`  | Muhammad Raihan Ramadhan      | Machine Learning    |
+  | `C009D4KY0174`  | Hanif Nurfauzi                | Cloud Computing     |
+  | `C237D4KY0508`  | Rafi Muhammad Hafidz          | Cloud Computing     |
+  | `A298D4KX4518`  | Desak Putu Mahadewi Saraswati | Mobile Development  |
+  | `A200D4KY3996`  | Galang Prioutomo              | Mobile Development  |
 
 
 
@@ -38,8 +38,8 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
 | Learning Path      | Repository Name                          | Repository  Link                                                         |
 |:-------------------|:-----------------------------------------|:-------------------------------------------------------------------------|
 | Machine Learning   | Machine Learning                            | **[Repo](https://github.com/EmoQu-Bangkit/MachineLearning)**          |
-| Cloud Computing    | API Smart Rinse                          | **[Repo](https://github.com/EmoQu-Bangkit/CloudComputing)**         |
-| Mobile Development | Smart Rinse (for User)                   | **[Repo](https://github.com/EmoQu-Bangkit/MobileDevelopment)**        |
+| Cloud Computing    | API Smart Rinse                          | **[Repo](https://github.com/EmoQu-Bangkit/CloudComputing)**              |
+| Mobile Development | Smart Rinse (for User)                   | **[Repo](https://github.com/EmoQu-Bangkit/MobileDevelopment)**           |
 
 
 
@@ -75,12 +75,5 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
 ###
 
 <h3 align="left">Supported By C241-PS136</h3>
-
-###
-
-<div align="center">
-  <img src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" height="80" alt="bangkit academy" style="margin-right:left0px;"/>
-  
-</div>
 
 ###
