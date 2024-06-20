@@ -12,7 +12,7 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
 
 ###
 
-<h3 align="left">  Our Mission</h3>
+## Our Mission
 So, based on the problems that have been explained previously and also that we as the younger generation have personally experienced the extraordinary pressures of modern life, we are very enthusiastic about solving this problem. We understand firsthand the toll that stress and burnout can take on our mental health, relationships, and overall well-being. Our own struggles have fueled our determination to create a solution that not only addresses these challenges but also empowers others to reclaim control over their lives and gain happiness. By leveraging our unique insights and experiences, we are committed to developing a solution that resonates with individuals facing similar obstacles, providing them with the support and resources they need to thrive in today's demanding world.
 
 
