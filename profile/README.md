@@ -12,6 +12,32 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
 
 ###
 
+<h3 align="left">  Our Mission</h3>
+So, based on the problems that have been explained previously and also that we as the younger generation have personally experienced the extraordinary pressures of modern life, we are very enthusiastic about solving this problem. We understand firsthand the toll that stress and burnout can take on our mental health, relationships, and overall well-being. Our own struggles have fueled our determination to create a solution that not only addresses these challenges but also empowers others to reclaim control over their lives and gain happiness. By leveraging our unique insights and experiences, we are committed to developing a solution that resonates with individuals facing similar obstacles, providing them with the support and resources they need to thrive in today's demanding world.
+
+
+## Our Solution
+
+1. **Daily Activity and Mood Tracking**: 
+   - Users can track their daily activities and mood using the app.
+   - Helps users gain insights into their daily routines and emotional well-being.
+
+2. **Classification of Activities and Moods**: 
+   - The app categorizes activities and moods into different conditions.
+   - Provides users with a structured understanding of their daily experiences.
+
+3. **Sentiment Analysis from Notes**: 
+   - Users can input additional notes about their activities and moods.
+   - The app performs sentiment analysis on these notes.
+   - Offers deeper insights into users' emotional state.
+
+4. **Creation of Daily Reports**: 
+   - Based on the tracked data and sentiment analysis.
+   - The app generates daily reports.
+   - Informs users about their overall well-being and trends over time.
+
+###
+
 <h3 align="left">  Our Team Members</h3>
 
 ###
