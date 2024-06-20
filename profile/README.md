@@ -2,9 +2,9 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/170599230?s=200&v=4"  />
 </div>
 
-#
+<h2>
 EmoQu - Your Personal Mood & Activity Companion.
-#
+</h2>
 
 ###
 
