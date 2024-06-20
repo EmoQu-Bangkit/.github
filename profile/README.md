@@ -2,10 +2,11 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/170599230?s=200&v=4"  />
 </div>
 
-###
-<div align="center" style="font-size:25px;font-weight:800">
+#
 EmoQu - Your Personal Mood & Activity Companion.
-</div>
+#
+
+###
 
 In today's fast-paced and demanding world, feeling overwhelmed is all too common. The pressure to excel at work, studies, and personal responsibilities can really take a toll on our mental and physical well-being, straining our relationships with loved ones. Those reasons drive us to develop our innovative mood tracker app **EmoQu**, a powerful tool to help you regain control. By logging your activities and emotions over time, the app helps you understand how your daily routines impact your mood.
 
