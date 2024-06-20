@@ -9,7 +9,7 @@
 EmoQu - Your Personal Mood & Activity Companion.
 </div>
 
-Discover the future of mood aids **EmoQu**, a product designed to help users record and track their moods and activities.
+In today's fast-paced and demanding world, feeling overwhelmed is all too common. The pressure to excel at work, studies, and personal responsibilities can really take a toll on our mental and physical well-being, straining our relationships with loved ones. Those reasons drive us to develop our innovative mood tracker app **EmoQu**, a powerful tool to help you regain control. By logging your activities and emotions over time, the app helps you understand how your daily routines impact your mood.
 
 ###
 
