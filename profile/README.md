@@ -2,9 +2,9 @@
   <img height="150" src="https://github.com/EmoQu-Bangkit/.github/blob/main/profile/Yellow%20White%20Modern%20Minimal%20Pitch%20Deck%20Presentation.png"  />
 </div>
 
-<h2>
+<h1 align="center">
 EmoQu - Your Personal Mood & Activity Companion.
-</h2>
+</h1>
 
 ###
 
