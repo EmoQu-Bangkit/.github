@@ -18,11 +18,11 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
 
   | ID              | Name                          | Learning Path       |
   |:----------------|:------------------------------|:--------------------|
-  | `M338D4KY2681`  | Denny Wisnu Supatro Sukisno   | Machine Learning    |
+  | `M338D4KY2681`  | Deny Wisnu Suputro Sukisno    | Machine Learning    |
   | `M006D4KY1976`  | Aditya Wahyu Rahmani          | Machine Learning    |
   | `M009D4KY2351`  | Muhammad Raihan Ramadhan      | Machine Learning    |
   | `C009D4KY0174`  | Hanif Nurfauzi                | Cloud Computing     |
-  | `C237D4KY0508`  | Rafi Muhammad Hafidz          | Cloud Computing     |
+  | `C237D4KY0508`  | Rafi Muhammad Hafidz Athufa   | Cloud Computing     |
   | `A298D4KX4518`  | Desak Putu Mahadewi Saraswati | Mobile Development  |
   | `A200D4KY3996`  | Galang Prioutomo              | Mobile Development  |
 
