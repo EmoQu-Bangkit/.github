@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/170599230?s=200&v=4"  />
+  <img height="150" src="https://github.com/EmoQu-Bangkit/.github/blob/main/profile/Yellow%20White%20Modern%20Minimal%20Pitch%20Deck%20Presentation.png"  />
 </div>
 
 <h2>
