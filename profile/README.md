@@ -5,7 +5,7 @@
 ###
 
 
-<div align="center" style="font-size:16px;font-weight:800">
+<div align="center" style="font-size:25px;font-weight:800">
 EmoQu - Your Personal Mood & Activity Companion.
 </div>
 
