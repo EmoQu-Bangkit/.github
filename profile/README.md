@@ -58,7 +58,7 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo"  />
+  <img src="https://github.com/EmoQu-Bangkit/.github/blob/main/profile/WhatsApp%20Image%202024-06-20%20at%2021.58.34.jpeg" height="40" alt="android studio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -70,7 +70,6 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Colab logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" height="40" alt="Colab logo"  />
 </div>
 
 ###
@@ -80,6 +79,5 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
 ###
 <div align="center">
   <img src="https://github.com/EmoQu-Bangkit/.github/blob/main/profile/WhatsApp%20Image%202024-06-20%20at%2022.04.04.jpeg" height="80" alt="kampus merdeka" style="margin-right:20px;"/>
-  <img src="" height="80" alt="bangkit academy" style="margin-right:left0px;"/>
   
 </div>
