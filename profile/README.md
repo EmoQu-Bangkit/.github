@@ -24,7 +24,7 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
   | `C009D4KY0174`  | Hanif Nurfauzi                | Cloud Computing     |
   | `C237D4KY0508`  | Rafi Muhammad Hafidz Athufa   | Cloud Computing     |
   | `A298D4KX4518`  | Desak Putu Mahadewi Saraswati | Mobile Development  |
-  | `A200D4KY3996`  | Galang Prioutomo              | Mobile Development  |
+  | `A200D4KY3996`  | Galang Priyohutomo            | Mobile Development  |
 
 
 
