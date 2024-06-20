@@ -78,3 +78,8 @@ In today's fast-paced and demanding world, feeling overwhelmed is all too common
 <h3 align="left">Supported By C241-PS136</h3>
 
 ###
+<div align="center">
+  <img src="" height="80" alt="kampus merdeka" style="margin-right:20px;"/>
+  <img src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" height="80" alt="bangkit academy" style="margin-right:left0px;"/>
+  
+</div>
